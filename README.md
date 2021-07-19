@@ -1,4 +1,4 @@
-# Dada Science Programming
+# Dada Science Programming homework
 
-This is to host MSBA DS_Programming homeworks
+This is to host MSBA DS_Programming homeworks.
  
